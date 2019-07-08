@@ -28,4 +28,5 @@ float calcularLaComision(int ventas){
         return 0;      
     }
     return comision;
+
 }
